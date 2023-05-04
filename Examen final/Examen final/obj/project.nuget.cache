@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OY/VeLBl5ciQ0mdaprwRV4UctFYZLQU/NTB69EiBR+HMNuWh/lbjRWvH40HiFrX2UWv4mqBfP+ZG3MRLWSNjTw==",
+  "dgSpecHash": "T59pIwcjPGl6OB2eW5kzKnnbagj9PbftxD/4C7huTNb6oDscqyxtoUhxzUTY1BjgAAvgpV+bgsxGP9At+WorcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Erick\\OneDrive\\Escritorio\\Nueva carpeta\\ExamenFinalWeb\\Examen final\\Examen final\\Examen final.csproj",
+  "projectFilePath": "C:\\Users\\Erick\\OneDrive\\Escritorio\\Nueva carpeta\\ExamenFinalWeb\\Examen final\\Examen final\\APP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Erick\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Erick\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",

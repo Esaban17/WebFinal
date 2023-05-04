@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Examen_final.Models
+namespace APP.Models
 {
     public class GeneralResult
     {

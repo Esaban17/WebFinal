@@ -9608,9 +9608,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erick\\OneDrive\\Escritorio\\Nueva carpeta\\ExamenFinalWeb\\Examen final\\Examen final\\Examen final.csproj",
-      "projectName": "Examen final",
-      "projectPath": "C:\\Users\\Erick\\OneDrive\\Escritorio\\Nueva carpeta\\ExamenFinalWeb\\Examen final\\Examen final\\Examen final.csproj",
+      "projectUniqueName": "C:\\Users\\Erick\\OneDrive\\Escritorio\\Nueva carpeta\\ExamenFinalWeb\\Examen final\\Examen final\\APP.csproj",
+      "projectName": "APP",
+      "projectPath": "C:\\Users\\Erick\\OneDrive\\Escritorio\\Nueva carpeta\\ExamenFinalWeb\\Examen final\\Examen final\\APP.csproj",
       "packagesPath": "C:\\Users\\Erick\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Erick\\OneDrive\\Escritorio\\Nueva carpeta\\ExamenFinalWeb\\Examen final\\Examen final\\obj\\",
       "projectStyle": "PackageReference",

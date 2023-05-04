@@ -1,4 +1,4 @@
-namespace Examen_final.Models
+namespace APP.Models
 {
     public class ErrorViewModel
     {

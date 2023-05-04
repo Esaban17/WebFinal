@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Examen_final.Auth;
+namespace APP.Auth;
 
 public class UserAuth
 {

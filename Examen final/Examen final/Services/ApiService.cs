@@ -1,11 +1,11 @@
 ﻿using Newtonsoft.Json;
 using System.Drawing.Printing;
 using System.Text;
-using Examen_final.Models;
-using Examen_final.Auth;
+using APP.Models;
+using APP.Auth;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Examen_final.Services;
+namespace APP.Services;
 
 public static class ApiService
 {

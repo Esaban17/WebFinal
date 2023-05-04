@@ -1,4 +1,4 @@
-﻿namespace Examen_final.Auth;
+﻿namespace APP.Auth;
 
 public class UserToken
 {

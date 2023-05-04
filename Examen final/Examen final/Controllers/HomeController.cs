@@ -1,13 +1,13 @@
-﻿using Examen_final.Models;
-using Examen_final.Auth;
+﻿using APP.Models;
+using APP.Auth;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Security.Claims;
-using Examen_final.Services;
+using APP.Services;
 
-namespace Examen_final.Controllers
+namespace APP.Controllers
 {
     public class HomeController : Controller
     {

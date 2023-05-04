@@ -2,11 +2,11 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Examen_final.Models;
-using Examen_final.Services;
+using APP.Models;
+using APP.Services;
 using Microsoft.AspNetCore.Authorization;
 
-namespace Examen_final.Controllers
+namespace APP.Controllers
 {
     public class BicicletasController : Controller
     {
