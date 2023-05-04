@@ -13,9 +13,9 @@ namespace API.Controllers
     [ApiController]
     public class UsuariosController : ControllerBase
     {
-        private readonly ExamenfinalContext _context;
+        private readonly BikeDBContext _context;
 
-        public UsuariosController(ExamenfinalContext context)
+        public UsuariosController(BikeDBContext context)
         {
             _context = context;
         }

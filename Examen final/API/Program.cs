@@ -13,7 +13,7 @@ builder.Services.AddControllers(options => options.SuppressImplicitRequiredAttri
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<ExamenfinalContext>(options =>
+builder.Services.AddDbContext<BikeDBContext>(options =>
                     options.UseMySQL(connectionString: builder.Configuration.GetConnectionString("BikeDB")!));
 
 builder.Services.Configure<ForwardedHeadersOptions>(option => option.ForwardedHeaders = Microsoft.AspNetCore.HttpOverrides.ForwardedHeaders.XForwardedFor | Microsoft.AspNetCore.HttpOverrides.ForwardedHeaders.XForwardedProto);

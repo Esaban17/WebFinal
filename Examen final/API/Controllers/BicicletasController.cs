@@ -16,9 +16,9 @@ namespace API.Controllers
     [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class BicicletasController : ControllerBase
     {
-        private readonly ExamenfinalContext _context;
+        private readonly BikeDBContext _context;
 
-        public BicicletasController(ExamenfinalContext context)
+        public BicicletasController(BikeDBContext context)
         {
             _context = context;
         }

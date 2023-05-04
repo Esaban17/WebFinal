@@ -14,10 +14,10 @@ namespace API.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-        private readonly ExamenfinalContext _context;
+        private readonly BikeDBContext _context;
         private readonly IConfiguration _configuration;
 
-        public AuthController(ExamenfinalContext context, IConfiguration configuration)
+        public AuthController(BikeDBContext context, IConfiguration configuration)
         {
             _context = context;
             _configuration = configuration;

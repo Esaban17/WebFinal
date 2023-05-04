@@ -4,13 +4,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Models;
 
-public partial class ExamenfinalContext : DbContext
+public partial class BikeDBContext : DbContext
 {
-    public ExamenfinalContext()
+    public BikeDBContext()
     {
     }
 
-    public ExamenfinalContext(DbContextOptions<ExamenfinalContext> options)
+    public BikeDBContext(DbContextOptions<BikeDBContext> options)
         : base(options)
     {
     }
